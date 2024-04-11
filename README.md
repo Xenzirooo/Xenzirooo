@@ -1,9 +1,4 @@
-<p align="center">
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-    <iframe src="https://giphy.com/embed/PTBVMsYIOB0SBP4MVe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  </div>
-  <p><a href="https://giphy.com/gifs/matrix-binary-code-PTBVMsYIOB0SBP4MVe">via GIPHY</a></p>
-</p><!-- ----------- CREDIT OF THIS SECTION TO Xen ------------ -->
+<iframe src="https://giphy.com/embed/PTBVMsYIOB0SBP4MVe" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/matrix-binary-code-PTBVMsYIOB0SBP4MVe"></a></p><!-- ----------- CREDIT OF THIS SECTION TO Xen ------------ -->
   
 <h3 align="center">An Informatics Major from Indonesia and Aspiring into Cybersecurity and Software Development</h3></p><br><br>
 
