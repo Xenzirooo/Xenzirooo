@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **xenhamo@gmail.com**
 
-- ⚡ Fun fact **If the world were open source, I'd definitely sneak a peek at the 'human.c' file to see how they programmed emotions!**
+- ⚡ Fun fact **If our world were a software project, I'd be curious to delve into the 'divine_engineering.c' file to understand how the divine programmer crafted such a beautifully complex ecosystem!**
 </p><br>
 
 <!-- ----------- CREDIT OF THIS SECTION TO Xen ------------ -->
