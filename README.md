@@ -1,7 +1,7 @@
 <!-- ----------- HEAD SECTION ------------ -->
 <!-- ----------- CREDIT OF THIS SECTION TO Xen ------------ -->
   
-<h3 align="center">An Informatics Major from Indonesia and Aspiring into Cybersecurity and Software Development</h3></p><br><br>
+<h3 align="center">An Informatics Major from Indonesia and Aspiring into Cybersecurity and Artificial Intelligence</h3></p><br><br>
 
 - 🏫 I’m currently studying at **Udayana University**
 
