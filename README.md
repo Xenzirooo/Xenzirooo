@@ -5,7 +5,7 @@
 
 - 🏫 I’m currently studying at **Udayana University**
 
-- 🌱 I’m currently learning **SOC, CTF, Web Pentest, Bug Bounty Hunting, Ethical Hacker, Kali Linux Framework**
+- 🌱 I’m currently learning **SOC, Web Pentest, Bug Bounty Hunting, Ethical Hacker, and Blockchain**
 
 - 💬 Ask me about **Security Operation Centre, Kali Linux**
 
